@@ -1,0 +1,45 @@
+# Variables
+@hostname=localhost
+@port=8080
+
+### GET /order/by name using variable substitution
+GET http://{{hostname}}:{{port}}/meals/Spaghetti%20Carbonara
+
+### GET all /orders using variable substitution
+GET http://{{hostname}}:{{port}}/meals
+
+### GET /order/1 by id using variable substitution
+GET http://{{hostname}}:{{port}}/meals/2
+
+### Get /order/5000 it doesn't exist
+
+GET http://{{hostname}}:{{port}}/meals/5000
+
+### POST add one meal - use this post with Visual Studio
+##  use the following content type : application/json
+### use the following content in the body
+### { "name","price","quantity" }
+
+POST http://{{hostname}}:{{port}}/meal
+Content-Type: application/json
+{
+  "name": "meals1",
+  "price": "12.45",
+  "quantity": 1
+}
+
+### POST add one meal - use this post with Visual Studio Code
+##  use the following content type : application/json
+### use the following content in the body
+### { "name","price","quantity" }
+POST http://{{hostname}}:{{port}}/meals HTTP/1.1
+content-type: application/json
+
+{
+  "name": "meals89",
+  "price": "12.45",
+  "quantity": 1
+}
+
+###DELETE One Order by id
+DELETE http://{{hostname}}:{{port}}/meals/100

@@ -1,0 +1,216 @@
+Spaghetti Carbonara,97,14.75
+Chicken Tikka Masala,42,16.2
+Veggie Stir-Fry,48,11.4
+Beef Tacos,98,12.5
+Greek Salad,42,9.8
+Margherita Pizza,90,13
+BBQ Ribs,13,18.9
+Falafel Wrap,87,10.25
+Seafood Paella,91,17.6
+Pork Schnitzel,71,15
+Mushroom Risotto,85,14.2
+Buffalo Wings,93,12
+Lentil Soup,17,7.9
+Shrimp Scampi,51,16.75
+Tofu Curry,20,11.9
+Pulled Pork Sandwich,33,13.25
+Caesar Salad,100,10.5
+Chicken Alfredo,22,15.5
+Vegetable Quesadilla,67,11.6
+Pasta Primavera,64,14
+Beef Stroganoff,20,17.2
+Eggplant Parmesan,68,12.8
+Chicken Caesar Wrap,62,9.7
+Beef Burgers,19,14.1
+Prawn Tempura,63,16.5
+Grilled Cheese Sandwich,23,8
+Pesto Pasta,16,13.9
+Thai Green Curry,77,17.8
+Chili Con Carne,73,14.3
+Grilled Salmon,71,18
+Sushi Roll,64,16
+Stuffed Bell Peppers,57,13.5
+Minestrone Soup,21,10
+Chicken Fajitas,89,12.9
+Bulgur Salad,53,11.2
+Pork Belly Bao,27,15.75
+Fish Tacos,75,12.6
+Vegetarian Chili,75,9.5
+Ratatouille,84,14.4
+Cheeseburger,95,13.7
+Roasted Chicken,19,15.9
+Quiche Lorraine,46,12.3
+Pulled Beef Tacos,76,16.4
+Marinated Olives,19,7.5
+Beef Empanadas,54,10.8
+Thai Spring Rolls,80,11.8
+Cheese Ravioli,40,14.6
+Beef Kebabs,16,18.5
+Vegetable Tempura,26,12.4
+Lamb Gyro,50,16.1
+Chicken Noodle Soup,71,8.7
+Pasta Bolognese,47,15.1
+Sweet and Sour Pork,16,13.3
+Grilled Vegetable Platter,13,11.5
+Tandoori Chicken,79,17.3
+Chicken and Waffles,58,14.8
+Black Bean Burritos,58,12.7
+Butternut Squash Soup,73,9.6
+Chicken Satay,11,13.9
+Pulled Chicken Sandwich,32,15.2
+Zucchini Fritters,32,10.1
+Shrimp Fried Rice,84,14.5
+Beef Nachos,30,11
+Spinach Artichoke Dip,59,8.5
+Chicken Parmesan,86,16.6
+Vegetable Lasagna,70,13.8
+Buffalo Chicken Salad,80,12.9
+Banh Mi Sandwich,47,10.6
+Spicy Sausage Pasta,55,14.9
+Crispy Chicken Tenders,99,11.4
+Ramen Noodles,70,15.3
+Lamb Chops,47,18.2
+Stuffed Mushrooms,73,9.9
+Gourmet Mac and Cheese,57,13.2
+Pork Fried Rice,47,12.3
+Greek Chicken Gyro,53,16.4
+Vegetarian Burrito,90,11.1
+Beef Sliders,24,10.9
+Pasta Salad,17,8.8
+Chicken Shawarma,55,14.6
+Vegetarian Samosas,96,9
+Seafood Linguine,45,17
+Grilled Portobello Mushroom,79,12.8
+Chili Cheese Fries,34,8.2
+Pork Ramen,62,15.6
+Spaghetti Bolognese,50,13.4
+Vegetable Pad Thai,58,11.3
+Beef and Broccoli Stir-Fry,31,14.2
+Tom Yum Soup,86,12.1
+Chicken Kiev,51,16.7
+Cuban Sandwich,38,13.9
+Buttermilk Pancakes,21,10.2
+Gyoza Dumplings,81,12.6
+Cheddar Cheese Soup,32,11.9
+BBQ Chicken Pizza,47,14.7
+Roasted Veggie Bowl,76,12
+Tandoori Lamb,18,16.9
+Spinach Feta Pie,44,10.4
+Fettuccine Alfredo,10,15.4
+Chicken and Rice Bowl,45,11.7
+Spicy Tuna Roll,26,16.3
+Pork Chops,42,14.8
+Mediterranean Platter,62,13.6
+Sweet Potato Fries,52,7.7
+Teriyaki Chicken,67,14.5
+Beef Quesadilla,100,12.4
+Tomato Basil Soup,50,8.6
+Lamb Shawarma,66,15.8
+Vegetarian Pad Thai,75,11.8
+Cheese Stuffed Meatballs,50,13
+Lobster Roll,23,18.7
+Chicken Soup with Noodles,62,9.9
+Salmon Teriyaki,98,16.8
+Vegetarian Pizza,10,14
+Buffalo Cauliflower Wings,33,10.7
+Stuffed Cabbage Rolls,84,12.9
+Crab Cakes,57,17.4
+Korean BBQ Beef,17,15.6
+Vegetarian Sushi Roll,24,11.4
+Beef Burritos,31,13.5
+Chicken Enchiladas,76,14.9
+Grilled Octopus,35,18.1
+Chicken Fried Rice,86,11.6
+Vegetarian Enchiladas,95,12.7
+Cajun Shrimp Pasta,93,16.6
+Caprese Salad,70,10.9
+Pulled Pork Tacos,90,14.3
+Vegetable Curry,24,12.5
+Beef Chili,78,13.2
+Chicken Teriyaki,14,14.1
+Sweet Corn Soup,80,8.4
+Tuna Salad Sandwich,88,11
+Stuffed Peppers,17,13.7
+Beef Meatballs,69,12
+Vegetarian Pasta,32,13.5
+Garlic Bread,20,6.2
+Chicken Quesadilla,46,10.8
+Shrimp and Grits,100,17.5
+Marinated Chicken Skewers,86,15
+Pork Belly Ramen,47,16.2
+Falafel Salad,32,12.9
+Egg Drop Soup,34,7.8
+Beef Stroganoff Pasta,29,14.2
+Baked Ziti,16,13.1
+Chicken Tortilla Soup,46,11.3
+Vegetarian Stir-Fry,38,10.4
+Lentil Salad,81,9.3
+Lamb Meatballs,83,15.4
+Chicken Caesar Salad,56,12.7
+Thai Beef Salad,87,14.8
+Beef and Cheese Nachos,24,12.9
+Tomato and Mozzarella Salad,40,10.6
+Vegetable Soup,13,8.4
+Shrimp and Avocado Salad,29,15.1
+Beef Tacos with Salsa,22,13.5
+Chicken Curry Wrap,58,11.2
+Grilled Tofu,83,12.8
+BBQ Chicken Wings,21,13.7
+Mediterranean Chicken Bowl,15,14
+Seafood Chowder,57,16.5
+Stuffed Zucchini,45,12.3
+Chicken Tenders,81,10.5
+Sweet and Spicy Pork,52,15.7
+Lamb Kebabs,40,16
+Vegetarian Quesadilla,90,11.8
+Crispy Fish Sandwich,53,13.6
+Shrimp and Mango Salad,69,17.1
+Chicken Wrap,43,11.5
+Vegetarian Chili Bowl,74,9.9
+Cheese Pizza,61,13
+Eggplant Rollatini,17,14.1
+Barbecue Pork Ribs,46,18.2
+Greek Lamb Chops,47,16.3
+Chicken Fettuccine Alfredo,91,15.4
+Vegetable Frittata,80,12.6
+Shrimp Burrito,51,14.8
+Beef Wellington,62,17.2
+Falafel Plate,94,11.9
+Grilled Tuna Steak,76,16.8
+Chicken and Vegetable Stir-Fry,65,12.2
+Stuffed Portobello,18,13.7
+Beef Burrito Bowl,98,13.3
+Vegetable Stuffed Pita,64,11.6
+Gourmet Hot Dog,89,8.5
+Pasta with Pesto,79,14
+Salmon Burger,66,16.5
+BBQ Brisket Sandwich,37,15.8
+Vegetarian Lasagna,74,14.7
+Chicken Tacos,94,12.5
+Seafood Pizza,65,17.1
+Quinoa Salad,100,11.8
+Beef Short Ribs,10,18
+Fried Calamari,57,14.2
+Chicken Pot Pie,63,15
+Thai Green Curry Noodles,35,13.6
+Pork Tenderloin,78,17.5
+Chicken Lettuce Wraps,74,12.3
+Mushroom and Swiss Burger,20,14.8
+Shrimp Scampi Pasta,90,16
+Sweet and Sour Chicken,58,13.9
+Vegetarian Sushi,78,12.6
+Grilled Chicken Breast,99,14.5
+Seafood Risotto,24,17
+Pulled Pork Nachos,13,15.1
+Fettuccine with Cream Sauce,95,12.2
+Vegetable Korma,84,11.7
+Chicken Enchilada Casserole,99,14.2
+Roasted Butternut Squash Soup,66,9.8
+Chicken Tikka Wrap,91,12.9
+Beef and Cheese Tacos,22,13.8
+Spicy Chicken Wings,24,14.5
+Vegetable Empanadas,30,11.2
+Lobster Mac and Cheese,12,18.7
+Chicken Gyro Plate,86,12.3
+Seafood Paella,61,16.4
+BBQ Chicken Skewers,44,13

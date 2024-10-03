@@ -1,0 +1,24 @@
+{
+  "name": "restapi",
+  "version-string": "1,0,0,0",
+  "description": "restapi web application",
+  "homepage": "http://localhost",
+  "dependencies": [
+    {
+      "name": "crow",
+      "platform": "(windows & x64) | (linux & x64)"
+    },
+    {
+      "name": "sqlitecpp",
+      "platform": "(windows & x64) | (linux & x64)"
+    },
+    {
+      "name": "sqlite3",
+      "platform": "(windows & x64) | (linux & x64)"
+    },
+    {
+      "name": "opentelemetry-cpp",
+      "platform": "(windows & x64) | (linux & x64)"
+    }
+  ]
+}
