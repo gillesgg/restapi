@@ -16,6 +16,11 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
+   # Install latest CMake and Ninja.
+    - name: Set up CMake
+      uses: lukka/get-cmake@latest
+
+
     - name: cache vcpkg 
       uses: actions/github-script@v7
       with:
