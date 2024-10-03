@@ -1,23 +1,45 @@
-name: C/C++ CI
+name: CMake Build
 
 on:
   push:
-    branches: [ "main" ]
+    branches:
+      - main
   pull_request:
-    branches: [ "main" ]
+    branches:
+      - main
 
 jobs:
   build:
-
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
-    - name: configure
-      run: ./configure
-    - name: make
-      run: make
-    - name: make check
-      run: make check
-    - name: make distcheck
-      run: make distcheck
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: cache vcpkg 
+      uses: actions/github-script@v7
+      with:
+        script: |
+            core.exportVariable('ACTIONS_CACHE_URL', process.env.ACTIONS_CACHE_URL || '');
+            core.exportVariable('ACTIONS_RUNTIME_TOKEN', process.env.ACTIONS_RUNTIME_TOKEN || '');
+
+    - name: Setup vcpkg
+      uses: lukka/run-vcpkg@v11
+      with:
+          vcpkgGitCommitId: '86a181505ac6460f98496a79abdee6a0f49905ec'
+
+    - name: Install dependencies
+      run: |
+        ./vcpkg/vcpkg install
+
+    - name: Configure CMake
+      run: |
+        cmake -B build -G Ninja -DCMAKE_TOOLCHAIN_FILE=./vcpkg/scripts/buildsystems/vcpkg.cmake
+
+    - name: Build
+      run: |
+        cmake --build build
+
+    - name: Run tests
+      run: |
+        ctest --test-dir build
